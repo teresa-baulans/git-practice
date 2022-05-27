@@ -22,6 +22,7 @@ Please do not edit any of this files contents above the section `Edit This`.
 be about you, or anything interesting. Please make them different to the version on your local
 `master branch` - ie. if someone says what their favourite colour is, don't put your favourite colour.
 We want these facts to be different from the previous person to create conflicts.
+
 4. Add this file using `git add README.md`
 5. Commit this file using `git commit -m "Added your-name facts"`
 6. Push your branch using `git push --set-upstream origin your-name` eg. `git push --set-upstream origin alex-hampton`
