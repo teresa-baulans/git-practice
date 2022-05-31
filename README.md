@@ -48,11 +48,12 @@ We want these facts to be different from the previous person to create conflicts
 
 # Edit This
 
-The most recent person to merge into main is Alex Hampton - Tester
+The most recent person to merge into main is Alex Hampton
 
+* He has a dog called Isla.
+* His favourite place in the world is Gili Air.
 * His favourite colour is blue.
-* Competitive art used to be in the Olympics.
-* There is one sea in the world that does not have a land border.
-* He loves cats, even though he has a dog.
+* Some cats are allergic to people!
+* His favourite food is chili con carne. 
 
 **NOTE - Please try add different types of facts than the previous person has added**
