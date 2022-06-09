@@ -48,12 +48,13 @@ We want these facts to be different from the previous person to create conflicts
 
 # Edit This
 
-The most recent person to merge into main is Alex Hampton
+The most recent person to merge into main is Jon Leslie 
 
-* He has a dog called Isla.
-* His favourite place in the world is Gili Air.
-* His favourite colour is blue.
-* Some cats are allergic to people!
-* His favourite food is chili con carne. 
+* His favourite sport is ice hockey.
+* He is from the United States.
+* He likes to go cycling.
+* He used to work in a butcher shop and was able to bone and skin a chicken
+  breast in under 2 1/2 minutes...both sides!
+* He loves Mexican food.
 
 **NOTE - Please try add different types of facts than the previous person has added**
