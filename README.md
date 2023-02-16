@@ -48,7 +48,12 @@ We want these facts to be different from the previous person to create conflicts
 
 # Edit This
 
-The most recent person to merge into main is Jon Leslie 
+Teresa:
+
+I like to read, eat and walk
+I like animals, I prefer the mountains to the beach, and I love a sunny day
+
+ most recent person to merge into main is Jon Leslie 
 
 * His favourite sport is ice hockey.
 * He is from the United States.
